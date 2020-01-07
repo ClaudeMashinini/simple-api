@@ -1,0 +1,22 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "Creating an api to capture Umuzi's visitors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBlaqHulk/simple-api.git"
+  },
+  "author": "Claude Dumisani Mashinini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBlaqHulk/simple-api/issues"
+  },
+  "homepage": "https://github.com/TheBlaqHulk/simple-api#readme",
+  "dependencies": {
+    "pg": "^7.14.0"
+  }
+}
