@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TheBlaqHulk/simple-api#readme",
   "dependencies": {
-    "pg": "^7.14.0"
+    "pg": "^7.14.0",
+    "sequelize": "^5.21.3"
   }
 }
